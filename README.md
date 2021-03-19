@@ -1,6 +1,6 @@
 # Applying Evolutionary Artificial Neural Networks using Python
 
-A 2D Unity simulation in which cars learn to navigate themselves through different courses. The cars are steered by a feedforward Neural Network. The weights of the network are trained using a modified genetic algorithm.
+A 2D simulation in which cars learn to navigate themselves through different courses. The cars are steered by a feedforward Neural Network. The weights of the network are trained using a modified genetic algorithm.
 There is brief presentation on the Youtube https://www.youtube.com/watch?v=y2B5884gpdo. 
 It is highly recommended to watch this before further reading.
 
